@@ -1,4 +1,4 @@
-[![Let's FIWARE Banner](https://github.com/lets-fiware/lets-fiware.lets-fiware.m5stack/blob/gh-pages/images/lets-fiware-logo-non-free.png)](https://www.letsfiware.jp/)
+[![Let's FIWARE Banner](https://github.com/lets-fiware/lets-fiware.m5stack/blob/gh-pages/images/lets-fiware-logo-non-free.png)](https://www.letsfiware.jp/)
 
 [![License: MIT](https://img.shields.io/github/license/lets-fiware/lets-fiware.m5stack.svg)](https://opensource.org/licenses/MIT)
 
